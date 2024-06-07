@@ -116,7 +116,7 @@ export function FAQ() {
             >
               Ko-fi page
             </Link>{" "}
-            to accept any donations to keep the website running!
+            to accept any donations to keep the website running!!
           </p>
         </AccordionContent>
       </AccordionItem>
